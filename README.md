@@ -1,12 +1,73 @@
-# React + Vite
+# ⚖️ BMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive Body Mass Index (BMI) Calculator built with React. Quickly compute your BMI based on your height and weight, with real-time feedback and visually distinct health categories.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+👉 [https://bmi-calculator-gules-five.vercel.app/](https://bmi-calculator-gules-five.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+| Screenshots                                 |
+| ------------------------------------------- |
+| ![Screenshots](./screenshot/screenshot.png) |
+
+---
+
+## 🚀 Features
+
+- ✅ Real-time BMI calculation
+- 📏 Adjustable height (in cm) and weight (in kg) with increment/decrement buttons
+- 🎨 Dynamic background color based on BMI result
+- 🧠 Displays BMI category (Underweight, Normal, Overweight, Obese)
+- 📱 Fully responsive UI
+
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ [React](https://reactjs.org/) — Frontend JavaScript library
+- ⚙️ [Vite](https://vitejs.dev/) — Lightning fast build tool
+
+---
+
+## 🧪 Getting Started
+
+### 📦 Installation
+
+Clone the repo :
+
+```bash
+git clone https://github.com/PARTHA-PATTANAYAK-02/Bmi_Calculator.git
+cd typing-speed-checker
+```
+
+install dependencies:
+
+```bash
+npm install
+```
+
+also see the package.json
+
+Run the development server :
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Deployment
+
+## This project can be deployed easily using:
+
+- ### 🔗 [vercel](https://bmi-calculator-gules-five.vercel.app//)
+
+## ✍️ Author
+
+**Made with ❤️ by [Partha Pattanayak](https://github.com/PARTHA-PATTANAYAK-02)**
