@@ -43,7 +43,7 @@ Clone the repo :
 
 ```bash
 git clone https://github.com/PARTHA-PATTANAYAK-02/Bmi_Calculator.git
-cd typing-speed-checker
+cd Bmi_Calculator
 ```
 
 install dependencies:
